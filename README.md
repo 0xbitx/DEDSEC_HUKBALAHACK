@@ -1,3 +1,4 @@
+#### I am not releasing it due to a few messages I received from Wi-Fi Vendo owners telling me not to make it public.
 
 <p align="center">
 <img src="https://i.imgur.com/uHc7T5Z.png", width="400", height="400">
